@@ -3,7 +3,12 @@
 # species names and units follow the IAMC conventions in `Level-2 Species`.
 # Documentation: https://doi.org/10.5281/zenodo.19730076
 
-- CMIP7 Species:
+- CMIP7 Aggregates:
+    - GHG AR6GWP100:
+        description: aggregate of all greenhouse gas emissions using the AR6-GWP100 metric
+    - Kyoto GHG AR6GWP100:
+        description: aggregate of all Kyoto gases using the AR6-GWP100 metric
+
 - CMIP7 Regionalized Species:
     - BC:
         description: black carbon (soot, BC)
