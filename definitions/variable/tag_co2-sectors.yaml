@@ -1,0 +1,26 @@
+- CO2 Sectors:
+    - AFOLU:
+        description: agriculture, forestry and other land use (IPCC 2006 category 3),
+          including agricultural emissions from livestock, rice cultivation and soil
+          management as well as emissions from land use and land-use change such as
+          deforestation, conversion of non-forest natural land, and drained peatlands
+        notes:
+    - Energy and Industrial Processes:
+        description: energy use in supply and demand sectors (IPCC category 1A, 1B) and
+          from industrial processes (IPCC categories 1A2, 1A5, 2A, 2B, 2C, 2E),
+          including emissions from international bunker fuels
+        notes:
+    - BECCS:
+        description: bioenergy with carbon capture and storage (BECCS), as gridded in
+          sector BECCS of the CO2 `em_anthro` files of the CMIP7-ScenarioMIP emissions
+          dataset
+        notes: Removals are reported as negative values.
+    - Other Capture and Removal:
+        description: direct air capture with carbon storage (DACCS), enhanced weathering,
+          ocean CDR, biochar and soil carbon management, as gridded in sector Other
+          Capture and Removal of the CO2 `em_anthro` files of the CMIP7-ScenarioMIP
+          emissions dataset
+        notes: Removals are reported as negative values. The sum can be positive in a
+          region where a method reported as net emissions outweighs the removals.
+          Removals in above-ground woody biomass (afforestation and reforestation,
+          agroforestry, forest management) are not included.
