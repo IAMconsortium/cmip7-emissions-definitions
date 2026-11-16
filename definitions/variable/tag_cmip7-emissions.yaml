@@ -97,15 +97,6 @@
     - CHCl3:
         description: CHCl3
         unit: kt CHCl3/yr
-    - CO2|AFOLU:
-        description: CO2|AFOLU
-        unit: Mt CO2/yr
-    - CO2|Energy and Industrial Processes:
-        description: CO2|Energy and Industrial Processes
-        unit: Mt CO2/yr
-    - GHG AR6GWP100:
-        description: GHG AR6GWP100
-        unit: MtCO2 / yr
     - HCFC141b:
         description: HCFC141b
         unit: kt HCFC141b/yr
@@ -160,9 +151,6 @@
     - Halon2402:
         description: Halon2402
         unit: kt Halon2402/yr
-    - Kyoto GHG AR6GWP100:
-        description: Kyoto GHG AR6GWP100
-        unit: MtCO2 / yr
     - NF3:
         description: NF3
         unit: kt NF3/yr
