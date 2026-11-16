@@ -11,6 +11,11 @@
     description: Harmonised emissions of {CMIP7 Aggregates}
     unit: Mt CO2-equiv/yr
 
+- CMIP7 Emissions|CO2|{CO2 Sectors}:
+    description: Harmonised emissions of {CO2 Sectors}
+    unit: Mt CO2/yr
+    notes: "{CO2 Sectors}"
+
 - CMIP7 Emissions|{CMIP7 Regionalized Species}|{CMIP7 Anthropogenic Sector}:
     description: Harmonised emissions of {CMIP7 Regionalized Species} from
       {CMIP7 Anthropogenic Sector}, as gridded in the `em_anthro` files of the
