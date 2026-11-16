@@ -4,6 +4,7 @@
 # Documentation: https://doi.org/10.5281/zenodo.19730076
 
 - CMIP7 Species:
+- CMIP7 Regionalized Species:
     - BC:
         description: black carbon (soot, BC)
         unit: Mt BC/yr
@@ -35,7 +36,7 @@
         description: non-methane volatile organic compounds (NMVOC)
         unit: Mt VOC/yr
 
-- CMIP7 Non-CO2 Species:
+- CMIP7 Regionalized Species excluding CO2:
     - BC:
         description: black carbon (soot, BC)
         unit: Mt BC/yr
